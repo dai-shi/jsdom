@@ -1,5 +1,3 @@
-(This fork is to add an XMLHttpRequest capability.)
-
 # jsdom
 
 A JavaScript implementation of the W3C DOM.
